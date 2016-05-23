@@ -1,4 +1,3 @@
-Test2
 Mutable Instruments' Eurorack Modules.
 
 * Braids: Macro-oscillator.
